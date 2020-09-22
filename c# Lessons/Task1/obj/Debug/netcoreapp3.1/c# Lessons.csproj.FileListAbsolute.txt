@@ -1,0 +1,39 @@
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\obj\Debug\netcoreapp3.1\c# Lessons.csprojAssemblyReference.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\obj\Debug\netcoreapp3.1\c# Lessons.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\obj\Debug\netcoreapp3.1\c# Lessons.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\obj\Debug\netcoreapp3.1\c# Lessons.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\bin\Debug\netcoreapp3.1\c# Lessons.exe
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\bin\Debug\netcoreapp3.1\c# Lessons.deps.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\bin\Debug\netcoreapp3.1\c# Lessons.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\bin\Debug\netcoreapp3.1\c# Lessons.runtimeconfig.dev.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\bin\Debug\netcoreapp3.1\c# Lessons.dll
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\bin\Debug\netcoreapp3.1\c# Lessons.pdb
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\obj\Debug\netcoreapp3.1\c# Lessons.dll
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\obj\Debug\netcoreapp3.1\c# Lessons.pdb
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\obj\Debug\netcoreapp3.1\c# Lessons.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\bin\Debug\netcoreapp3.1\c# Lessons.exe
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\bin\Debug\netcoreapp3.1\c# Lessons.deps.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\bin\Debug\netcoreapp3.1\c# Lessons.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\bin\Debug\netcoreapp3.1\c# Lessons.runtimeconfig.dev.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\bin\Debug\netcoreapp3.1\c# Lessons.dll
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\bin\Debug\netcoreapp3.1\c# Lessons.pdb
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\obj\Debug\netcoreapp3.1\c# Lessons.csprojAssemblyReference.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\obj\Debug\netcoreapp3.1\c# Lessons.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\obj\Debug\netcoreapp3.1\c# Lessons.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\obj\Debug\netcoreapp3.1\c# Lessons.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\obj\Debug\netcoreapp3.1\c# Lessons.dll
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\obj\Debug\netcoreapp3.1\c# Lessons.pdb
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Lesson 1\obj\Debug\netcoreapp3.1\c# Lessons.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\bin\Debug\netcoreapp3.1\c# Lessons.exe
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\bin\Debug\netcoreapp3.1\c# Lessons.deps.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\bin\Debug\netcoreapp3.1\c# Lessons.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\bin\Debug\netcoreapp3.1\c# Lessons.runtimeconfig.dev.json
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\bin\Debug\netcoreapp3.1\c# Lessons.dll
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\bin\Debug\netcoreapp3.1\c# Lessons.pdb
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\obj\Debug\netcoreapp3.1\c# Lessons.csprojAssemblyReference.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\obj\Debug\netcoreapp3.1\c# Lessons.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\obj\Debug\netcoreapp3.1\c# Lessons.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\obj\Debug\netcoreapp3.1\c# Lessons.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\obj\Debug\netcoreapp3.1\c# Lessons.dll
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\obj\Debug\netcoreapp3.1\c# Lessons.pdb
+C:\Users\jesse\OneDrive\Desktop\c# Lessons\Task1\obj\Debug\netcoreapp3.1\c# Lessons.genruntimeconfig.cache
