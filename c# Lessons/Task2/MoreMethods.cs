@@ -7,7 +7,7 @@ namespace Lesson_2
         public static string PrintARandomNumber() {
             {
                 var random = new Random();
-                Console.WriteLine(random.Next(0,50));
+                Console.WriteLine(random.Next(0,51));
                 return "hi";
             }
         }
