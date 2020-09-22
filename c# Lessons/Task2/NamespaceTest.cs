@@ -5,7 +5,7 @@ namespace TestSpace{
         public static void PrintARandomNumber() {
             {
                 var random = new Random();
-                Console.WriteLine(random.Next(50,100));
+                Console.WriteLine(random.Next(50,101));
             }
         }
     }

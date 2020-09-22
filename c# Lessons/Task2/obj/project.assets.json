@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jesse\\OneDrive\\Desktop\\c# Lessons\\Task2\\Lesson 2.csproj",
+      "projectUniqueName": "C:\\Users\\jesse\\OneDrive\\Desktop\\C-Sharp-General-Practice\\c# Lessons\\Task2\\Lesson 2.csproj",
       "projectName": "Lesson 2",
-      "projectPath": "C:\\Users\\jesse\\OneDrive\\Desktop\\c# Lessons\\Task2\\Lesson 2.csproj",
+      "projectPath": "C:\\Users\\jesse\\OneDrive\\Desktop\\C-Sharp-General-Practice\\c# Lessons\\Task2\\Lesson 2.csproj",
       "packagesPath": "C:\\Users\\jesse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jesse\\OneDrive\\Desktop\\c# Lessons\\Task2\\obj\\",
+      "outputPath": "C:\\Users\\jesse\\OneDrive\\Desktop\\C-Sharp-General-Practice\\c# Lessons\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jesse\\AppData\\Roaming\\NuGet\\NuGet.Config"
