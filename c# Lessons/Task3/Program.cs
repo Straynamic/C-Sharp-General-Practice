@@ -7,7 +7,7 @@ namespace Task3
         static void Main(string[] args)
         {
             Console.WriteLine("Started Program");
-            Question3.RunQuestion();
+            Question4.RunQuestion();
         }
     }
 }
@@ -15,3 +15,4 @@ namespace Task3
 //Question 1: What is Boxing and Unboxing in C#?
 //Question 2: What is enum in C#?
 //Question 3: What is the difference between constant and readonly in C#?
+//Question 4: How do I inherit another class?
