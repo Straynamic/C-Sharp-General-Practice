@@ -21,7 +21,7 @@ namespace Task3
         readonly int read = 10;    
         const int cons = 10;    
         public Test() {    
-            read = 100;    
+            read = 1000;    
         }    
         public void Check() {    
             Console.WriteLine("Read only : {0}", read);    
