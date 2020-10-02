@@ -2,9 +2,9 @@ using System;
 
 namespace Task3
 {
-    public static class Question6
+    public static class Question
     {
-        //Question 6: 
+        //Question : 
         public static void RunQuestion(){
             
         }

@@ -2,7 +2,7 @@ using System;
 
 namespace Lesson_2
 {
-    public class ExtraFunctions
+    public static class ExtraFunctions
     {
         public static string PrintARandomNumber() {
             {
@@ -12,4 +12,13 @@ namespace Lesson_2
             }
         }
     }
+
+    public delegate int PerformCalculation(int x, int y);
+
+    class TestDelegate {
+        
+        
+    }
+
+    
 }

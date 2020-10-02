@@ -8,7 +8,6 @@ namespace Lesson_2{
             MyCar.CarInfo("Model Y", "Tesla", "2020");
             Console.WriteLine(MyCar.GetAllCarInfo());
             EvenMoreFunctions.PrintARandomNumber();
-            
         }
     }
 }
